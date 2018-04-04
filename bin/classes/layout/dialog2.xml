@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/corners_bg"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/dialog_message"
+        android:textSize="16sp"
+        android:textColor="#000000"
+        android:autoLink="web"
+        android:text="\t——自动认证下线功能——\n切换校园wifi时自动认证下线\n将在后台为您绿色守护~\n请将app加入安全管家白名单\n将会下线其他设备然后本机认证\n校园网用户请谨慎使用"
+        android:lineSpacingExtra="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="20dp"
+        android:paddingTop="10dp"
+        android:paddingLeft="20dp"
+        android:paddingBottom="10dp"
+        android:layout_margin="15dp" />
+
+</LinearLayout>  

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    android:clickable="false">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#068d64"
+        android:layout_weight="0">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="功能设置"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            android:text="@string/Back"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:layout_alignParentStart="true"
+            android:onClick="goBack" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center">
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp">
+
+        <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="后台开机自启"
+            android:id="@+id/checkBox3"
+            android:textSize="20dp"
+            android:background="@drawable/buttonshape"
+            android:padding="8dp"
+            android:layout_margin="5dp"
+            android:textColor="#ffffff" />
+
+        <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="通知栏显示"
+            android:id="@+id/checkBox4"
+            android:textSize="20dp"
+            android:background="@drawable/buttonshape"
+            android:layout_gravity="center_horizontal"
+            android:padding="8dp"
+            android:layout_margin="5dp"
+            android:textColor="#FFFFFF" />
+
+        <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="自动认证下线"
+            android:id="@+id/checkBox2"
+            android:textSize="20dp"
+            android:background="@drawable/buttonshape"
+            android:layout_gravity="center_horizontal"
+            android:padding="8dp"
+            android:layout_margin="5dp"
+            android:textColor="#FFFFFF" />
+
+        <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="定时认证下线"
+            android:id="@+id/checkBox1"
+            android:textSize="20dp"
+            android:background="@drawable/buttonshape"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="5dp"
+            android:padding="8dp"
+            android:textColor="#FFFFFF" />
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button2"
+        android:onClick="SaveSetting"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:background="@drawable/buttonshape"
+        android:text="保存设置"
+        android:layout_marginRight="5dp"
+        android:layout_margin="5dp"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button3"
+        android:onClick="CheckUpdate"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:background="@drawable/buttonshape"
+        android:text="检查更新"
+        android:layout_marginRight="5dp"
+        android:layout_margin="5dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0" />
+
+</LinearLayout>

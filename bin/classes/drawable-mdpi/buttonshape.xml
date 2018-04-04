@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector  xmlns:android="http://schemas.android.com/apk/res/android" >
+       <!-- 注释表示方法 -->
+
+           <!-- 点击状态-->
+        <item android:state_pressed="true" >
+        <shape>
+            <solid android:color="#068d64"/>
+			<corners android:radius="8dp" />
+        </shape>
+         </item>
+        
+           <!-- 默认状态-->
+    <item android:state_focused="false">
+        <shape>
+            <solid android:color="#FF09B681"/>
+			<corners android:radius="8dp" />
+ 	   </shape>
+    </item>
+     
+</selector>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/corners_bg"
+    android:orientation="vertical" >
+
+
+
+    <EditText android:textSize="16.0sp"
+        android:textColor="#000000"
+        android:id="@+id/dialog2_et1"
+        android:background="#00ffffff"
+        android:layout_width="fill_parent"
+        android:layout_height="44.0dip"
+        android:hint="输入手机号"
+        android:maxLines="1"
+        android:maxLength="11"
+        android:inputType="text"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/dialog2_bt1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/buttonshape"
+        android:layout_marginLeft="20.0dip"
+        android:layout_marginRight="20.0dip"
+        android:paddingBottom="2dp"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingTop="2dp"
+        android:text="获取验证码"
+        android:textColor="#ffffffff"
+        android:textSize="16sp" />
+
+    <EditText android:textSize="16.0sp"
+        android:textColor="#000000"
+        android:background="#00ffffff"
+        android:id="@+id/dialog2_et2"
+        android:layout_width="fill_parent"
+        android:layout_height="44.0dip"
+        android:hint="输入验证码"
+        android:visibility="gone"
+        android:maxLines="1"
+        android:maxLength="6"
+        android:inputType="text"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/dialog2_bt2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:visibility="gone"
+        android:background="@drawable/button"
+        android:layout_marginLeft="20.0dip"
+        android:layout_marginRight="20.0dip"
+        android:paddingBottom="2dp"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingTop="2dp"
+        android:text="查询余额"
+        android:textColor="#ffffffff"
+        android:textSize="16sp" />
+</LinearLayout>  

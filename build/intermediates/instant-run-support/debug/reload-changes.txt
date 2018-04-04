@@ -1,0 +1,3 @@
+CHANGED,D:\WorkGroup\Android_Dev\Watermelon\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\christmas\swuwifi\ThTask$override.class
+CHANGED,D:\WorkGroup\Android_Dev\Watermelon\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\christmas\swuwifi\HorizonService$1$override.class
+CHANGED,D:\WorkGroup\Android_Dev\Watermelon\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

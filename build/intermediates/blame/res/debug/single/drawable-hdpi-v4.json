@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setmain.png",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\drawable-hdpi\\setmain.png"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\down_arrow.png",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\drawable-hdpi\\down_arrow.png"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_more_up.png",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\drawable-hdpi\\login_more_up.png"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_moremenu_back.9.png",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\drawable-hdpi\\login_moremenu_back.9.png"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_unselect.png",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\drawable-hdpi\\checkbox_unselect.png"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_unselect_press.png",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\drawable-hdpi\\checkbox_unselect_press.png"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\delete.png",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_selected.png",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\drawable-hdpi\\checkbox_selected.png"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\corners_bg.xml",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\drawable-hdpi\\corners_bg.xml"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\index.png",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\drawable-hdpi\\index.png"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_selected_press.png",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\drawable-hdpi\\checkbox_selected_press.png"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button.xml",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\drawable-hdpi\\button.xml"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_more.png",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\drawable-hdpi\\login_more.png"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_input.9.png",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\drawable-hdpi\\login_input.9.png"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_bg1.xml",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\drawable-hdpi\\checkbox_bg1.xml"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_bg.9.png",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\drawable-hdpi\\list_bg.9.png"
+    }
+]

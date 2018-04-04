@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:paddingLeft="12.0dip" 
+    android:background="@drawable/list_bg"
+    android:orientation="horizontal" >
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColor="#ff1d1d1d" 
+        android:layout_weight="1"
+        android:gravity="left"
+        android:text="内容"
+        android:id="@+id/tv_listitem_content"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="44.0dip"
+        android:src="@drawable/setmain"
+        android:scaleType="center"
+        android:id="@+id/iv_listitem_setMain"
+        android:visibility="gone" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="44.0dip"
+        android:src="@drawable/index"
+        android:layout_marginRight="44.0dip"
+        android:visibility="gone"
+        android:scaleType="center"
+        android:id="@+id/iv_listitem_index"/>
+    <ImageView
+        android:layout_width="44.0dip"
+        android:layout_height="44.0dip"
+        android:src="@drawable/delete"
+        android:scaleType="center"
+        android:id="@+id/iv_listitem_delete"/>
+</LinearLayout>

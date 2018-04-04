@@ -1,0 +1,112 @@
+[
+    {
+        "outputFile": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 16,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 8,
+                        "startOffset": 294,
+                        "endLine": 11,
+                        "endColumn": 16,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 715,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 936
+                },
+                "from": {
+                    "file": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 904,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 941,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1155
+                },
+                "from": {
+                    "file": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1662,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 1879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1160,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1310
+                },
+                "from": {
+                    "file": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1503,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1656
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\layout\\progress_custom.xml",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\layout\\progress_custom.xml"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_2.xml",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\layout\\dialog_2.xml"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\layout\\dialog2.xml",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\layout\\dialog2.xml"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\layout\\more_help.xml",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\layout\\more_help.xml"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\layout\\donate.xml",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\layout\\donate.xml"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_1.xml",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\layout\\dialog_1.xml"
+    },
+    {
+        "merged": "D:\\WorkGroup\\Android_Dev\\Watermelon\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "D:\\WorkGroup\\Android_Dev\\Watermelon\\res\\layout\\setting.xml"
+    }
+]
